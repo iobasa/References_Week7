@@ -1,4 +1,4 @@
-[TRAA logo](images/logo.jpg)
+![TRAA logo](Documents/References_Week7/images/logo.jpeg)
 
 # References_Week7
 
