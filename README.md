@@ -10,7 +10,7 @@ What the project is about.
 
 ### Dependencies
 
-Uses CSS3 and HTML3 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/)for reference).
+Uses CSS3 and HTML3 latest features. Be sure to prefix any bleeding-edge rules, tags, etc (see [caniuse](https://caniuse.com/) [babel](https://babeljs.io/) for reference).
 Also using latest ES6/next, you should probably think about including Babel for transcription (or an NPM script).
 
 ### Installing
